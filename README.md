@@ -1,6 +1,6 @@
 # 🩺 Breast Cancer Detection using Logistic Regression
 
-## 🔍 Task 4: Binary Classification with Logistic Regression
+## 🔍 Binary Classification with Logistic Regression
 
 This project demonstrates how to build a binary classification model using **Logistic Regression** with **L1 regularization** on the **Breast Cancer Wisconsin Dataset**. The model classifies whether a tumor is **malignant** or **benign** based on various cellular features.
 
